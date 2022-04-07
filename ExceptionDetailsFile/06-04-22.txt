@@ -1,0 +1,48 @@
+-----------Exception Details on  06-04-2022 13:37:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-04-2022 13:37:17
+
+Error Line No : irline)
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: 
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-04-2022 13:50:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-04-2022 13:50:09
+
+Error Line No : line 25
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: AirlineRepository/CreateAirline
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

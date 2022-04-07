@@ -1,0 +1,120 @@
+-----------Exception Details on  07-04-2022 18:46:53-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-04-2022 18:46:53
+
+Error Line No : line 26
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: FlightRepository/AddFlight
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-04-2022 18:47:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-04-2022 18:47:09
+
+Error Line No : line 26
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: FlightRepository/AddFlight
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-04-2022 18:48:38-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-04-2022 18:48:38
+
+Error Line No : line 26
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: FlightRepository/AddFlight
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-04-2022 18:50:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-04-2022 18:50:54
+
+Error Line No : line 26
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: FlightRepository/AddFlight
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-04-2022 18:59:16-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-04-2022 18:59:16
+
+Error Line No : line 26
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while updating the entries. See the inner exception for details.
+
+ Error Page Url: FlightRepository/AddFlight
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
